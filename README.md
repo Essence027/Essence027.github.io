@@ -1,6 +1,6 @@
-# Добро пожаловать <h1> tag
+# Добро пожаловать
 
-You can use the [editor on GitHub](https://github.com/Essence027/Essence027.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Славянофи́льство — литературно и религиозно-философское течение русской общественной и философской мысли, оформившееся в 30-х—40-х годах XIX века и ориентированное на выявление самобытности России, её типовых отличий от Запада.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
