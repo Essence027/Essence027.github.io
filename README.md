@@ -4,6 +4,11 @@
 
 Славянофильство представляло собой общественное и интеллектуальное движение, выступившее своеобразной реакцией на начавшееся ещё в эпоху Петра I внедрение в России западных ценностей.
 
+Основоположником этого направления стал литератор А. С. Хомяков:
+
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/KhomyakovA_AvtoportretABR.jpg/150px-KhomyakovA_AvtoportretABR.jpg)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
