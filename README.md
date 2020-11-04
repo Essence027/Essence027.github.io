@@ -14,7 +14,7 @@
 
 деятельную роль в движении играли И. В. Киреевский, К. С. Аксаков, И. С. Аксаков, Ю. Ф. Самарин, А. И. Кошелев, Ф. В. Чижов:
 
-![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KonstantinAksakov.jpg/150px-KonstantinAksakov.jpg) ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg/154px-%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg) ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Yuri_Fyodorovich_Samarin_Kramskoi.jpg/150px-Yuri_Fyodorovich_Samarin_Kramskoi.jpg) 
+![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KonstantinAksakov.jpg/150px-KonstantinAksakov.jpg) ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg/160px-%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg) ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Yuri_Fyodorovich_Samarin_Kramskoi.jpg/150px-Yuri_Fyodorovich_Samarin_Kramskoi.jpg) 
 
 (К. С. Аксаков) (И. С. Аксаков) (Ю. Ф. Самарин)
 ### Markdown
