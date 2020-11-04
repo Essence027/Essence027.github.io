@@ -17,9 +17,9 @@
 ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KonstantinAksakov.jpg/150px-KonstantinAksakov.jpg) ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg/160px-%D0%90%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.jpg) ![Image of Yaktocat](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Yuri_Fyodorovich_Samarin_Kramskoi.jpg/150px-Yuri_Fyodorovich_Samarin_Kramskoi.jpg) 
 
 (К. С. Аксаков) (И. С. Аксаков) (Ю. Ф. Самарин)
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Оценки
+[Николай Бердяев](https://ru.wikipedia.org/wiki/Бердяев,_Николай_Александрович) в своей статье «Славянофильство и славянская идея» оценивал славянофильские идеи как «детское сознание русского народа, первое национальное пробуждение от сна, первый опыт самоопределения», также отмечая, что «славянофилы» «что-то почуяли в русской национальной душе, по-своему выразили впервые это русское самочувствие, и в этом их огромная заслуга. Но всякая попытка осуществления славянофильской идейной программы обнаруживала или ее утопичность и нежизненность или ее совпадение с официальной политикой власти».
+По мнению политолога [В. Б. Пастухова](https://ru.wikipedia.org/wiki/Пастухов,_Владимир_Борисович) в идеологии славянофильства и западничества не было ничего специфически русского. Учёный ссылается на британского историка [Арнольда Тойнби](https://ru.wikipedia.org/wiki/Тойнби,_Арнольд_Джозеф), писавшего по этому поводу, что в любом отсталом обществе, которому нужно противостоять более сильному в военном и экономическом отношении противнику, возникает два течения: [«иродианство»](https://ru.wikipedia.org/wiki/Иродиане) — ратующее за копирование иностранных общественных институтов, и [«зелотизм»](https://ru.wikipedia.org/wiki/Зелоты) — призывающее к изоляции ради сохранения традиционного уклада.
 
 ```markdown
 
